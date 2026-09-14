@@ -10,4 +10,4 @@
 
 Video project:  
 
-[![Project Robot Arduino](https://img.youtube.com/vi/0dshbKa4CbI?si=hfTmITqcjNXWvz0n/0.jpg)](https://www.youtube.com/shorts/0dshbKa4CbI)
+[![Project Robot Arduino](https://img.youtube.com/vi/0dshbKa4CbI/0.jpg)](https://www.youtube.com/shorts/0dshbKa4CbI)
