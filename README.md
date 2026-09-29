@@ -16,3 +16,7 @@ Placas Arduino, sensores, y demas utilizados en los distintos proyectos de este 
 
 !["ESP32"](./Folder/ESP32.png)
 
+### Elemon ESSA-IOT-V2
+
+!["Elemon ESSA-IOT-V2"](./Folder/elemon.png)
+
